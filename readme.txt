@@ -15,8 +15,6 @@ Create your unique content blocks right from within the Headway Grid editor usin
 
 **Headway Views** lets Headway users create unique content blocks, right from the Grid Editor, using **Views**.
 
-[youtube http://www.youtube.com/watch?v=5Scbnm8i7D0]
-
 While you can build virtually anything, here are a few basic examples of Views blocks that you can create, in 10 minutes or less:
 
 * Tables
